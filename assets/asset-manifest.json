@@ -1,0 +1,270 @@
+{
+  "scenes": {
+    "home": {
+      "name": "It’s a Fun Day! — The Calendar Heist",
+      "background": "assets/backgrounds/home.png",
+      "title": "assets/titles/home.png",
+      "thumbnail": "assets/tabs/home.png"
+    },
+    "week-review": {
+      "name": "Week Review",
+      "background": "assets/backgrounds/week-review.png",
+      "title": "assets/titles/week-review.png",
+      "thumbnail": "assets/tabs/week-review.png"
+    },
+    "calendar-conveyor": {
+      "name": "Calendar Conveyor",
+      "background": "assets/backgrounds/calendar-conveyor.png",
+      "title": "assets/titles/calendar-conveyor.png",
+      "thumbnail": "assets/tabs/calendar-conveyor.png"
+    },
+    "weather-blackout": {
+      "name": "Weather Blackout",
+      "background": "assets/backgrounds/weather-blackout.png",
+      "title": "assets/titles/weather-blackout.png",
+      "thumbnail": "assets/tabs/weather-blackout.png"
+    },
+    "freeze-frame-charades": {
+      "name": "Freeze-Frame Charades",
+      "background": "assets/backgrounds/freeze-frame-charades.png",
+      "title": "assets/titles/freeze-frame-charades.png",
+      "thumbnail": "assets/tabs/freeze-frame-charades.png"
+    },
+    "three-door-dash": {
+      "name": "Three-Door Dash",
+      "background": "assets/backgrounds/three-door-dash.png",
+      "title": "assets/titles/three-door-dash.png",
+      "thumbnail": "assets/tabs/three-door-dash.png"
+    },
+    "yesterday-tomorrow-switch": {
+      "name": "Yesterday–Tomorrow Switch",
+      "background": "assets/backgrounds/yesterday-tomorrow-switch.png",
+      "title": "assets/titles/yesterday-tomorrow-switch.png",
+      "thumbnail": "assets/tabs/yesterday-tomorrow-switch.png"
+    },
+    "stop-the-time-loop": {
+      "name": "Stop the Time Loop",
+      "background": "assets/backgrounds/stop-the-time-loop.png",
+      "title": "assets/titles/stop-the-time-loop.png",
+      "thumbnail": "assets/tabs/stop-the-time-loop.png"
+    },
+    "custom-practice": {
+      "name": "Custom Practice",
+      "background": "assets/backgrounds/custom-practice.png",
+      "title": "assets/titles/custom-practice.png",
+      "thumbnail": "assets/tabs/custom-practice.png"
+    },
+    "settings": {
+      "name": "Settings",
+      "background": "assets/backgrounds/settings.png",
+      "title": "assets/titles/settings.png",
+      "thumbnail": "assets/tabs/settings.png"
+    },
+    "vocabulary": {
+      "name": "Vocabulary",
+      "background": "assets/backgrounds/vocabulary.png",
+      "title": "assets/titles/vocabulary.png",
+      "thumbnail": "assets/tabs/vocabulary.png"
+    },
+    "sentence-patterns": {
+      "name": "Sentence Patterns",
+      "background": "assets/backgrounds/sentence-patterns.png",
+      "title": "assets/titles/sentence-patterns.png",
+      "thumbnail": "assets/tabs/sentence-patterns.png"
+    },
+    "weather": {
+      "name": "Weather",
+      "background": "assets/backgrounds/weather.png",
+      "title": "assets/titles/weather.png",
+      "thumbnail": "assets/tabs/weather.png"
+    },
+    "actions": {
+      "name": "Actions",
+      "background": "assets/backgrounds/actions.png",
+      "title": "assets/titles/actions.png",
+      "thumbnail": "assets/tabs/actions.png"
+    },
+    "spelling": {
+      "name": "Spelling Game",
+      "background": "assets/spelling/background/Spelling_Workshop_16x9.png",
+      "title": "assets/spelling/Spelling_Intro.png",
+      "thumbnail": "assets/spelling/Spelling_Thumbnail.png"
+    }
+  },
+  "weekdays": {
+    "monday": {
+      "date": "2026-11-02",
+      "calendar": "assets/calendars/monday.png",
+      "calendarDateOnly": "assets/calendars/monday-date-only.png",
+      "activityAnswer": "assets/activities/answers/monday.png",
+      "activityClue": "assets/activities/clues/monday.png"
+    },
+    "tuesday": {
+      "date": "2026-11-03",
+      "calendar": "assets/calendars/tuesday.png",
+      "calendarDateOnly": "assets/calendars/tuesday-date-only.png",
+      "activityAnswer": "assets/activities/answers/tuesday.png",
+      "activityClue": "assets/activities/clues/tuesday.png"
+    },
+    "wednesday": {
+      "date": "2026-11-04",
+      "calendar": "assets/calendars/wednesday.png",
+      "calendarDateOnly": "assets/calendars/wednesday-date-only.png",
+      "activityAnswer": "assets/activities/answers/wednesday.png",
+      "activityClue": "assets/activities/clues/wednesday.png"
+    },
+    "thursday": {
+      "date": "2026-11-05",
+      "calendar": "assets/calendars/thursday.png",
+      "calendarDateOnly": "assets/calendars/thursday-date-only.png",
+      "activityAnswer": "assets/activities/answers/thursday.png",
+      "activityClue": "assets/activities/clues/thursday.png"
+    },
+    "friday": {
+      "date": "2026-11-06",
+      "calendar": "assets/calendars/friday.png",
+      "calendarDateOnly": "assets/calendars/friday-date-only.png",
+      "activityAnswer": "assets/activities/answers/friday.png",
+      "activityClue": "assets/activities/clues/friday.png"
+    },
+    "saturday": {
+      "date": "2026-11-07",
+      "calendar": "assets/calendars/saturday.png",
+      "calendarDateOnly": "assets/calendars/saturday-date-only.png",
+      "activityAnswer": "assets/activities/answers/saturday.png",
+      "activityClue": "assets/activities/clues/saturday.png"
+    },
+    "sunday": {
+      "date": "2026-11-08",
+      "calendar": "assets/calendars/sunday.png",
+      "calendarDateOnly": "assets/calendars/sunday-date-only.png",
+      "activityAnswer": "assets/activities/answers/sunday.png",
+      "activityClue": "assets/activities/clues/sunday.png"
+    }
+  },
+  "weather": {
+    "sunny": {
+      "clue": "assets/weather/sunny.png",
+      "answer": "assets/weather-labeled/sunny.png"
+    },
+    "windy": {
+      "clue": "assets/weather/windy.png",
+      "answer": "assets/weather-labeled/windy.png"
+    },
+    "cloudy": {
+      "clue": "assets/weather/cloudy.png",
+      "answer": "assets/weather-labeled/cloudy.png"
+    },
+    "stormy": {
+      "clue": "assets/weather/stormy.png",
+      "answer": "assets/weather-labeled/stormy.png"
+    },
+    "snowy": {
+      "clue": "assets/weather/snowy.png",
+      "answer": "assets/weather-labeled/snowy.png"
+    },
+    "rainy": {
+      "clue": "assets/weather/rainy.png",
+      "answer": "assets/weather-labeled/rainy.png"
+    },
+    "cool": {
+      "clue": "assets/weather/cool.png",
+      "answer": "assets/weather-labeled/cool.png"
+    },
+    "warm": {
+      "clue": "assets/weather/warm.png",
+      "answer": "assets/weather-labeled/warm.png"
+    },
+    "hot": {
+      "clue": "assets/weather/hot.png",
+      "answer": "assets/weather-labeled/hot.png"
+    }
+  },
+  "ui": {
+    "clock": "assets/ui/clock-mascot.png"
+  },
+  "spelling": {
+    "tiles": {
+      "blue": "assets/spelling/tiles/blue.png",
+      "mint": "assets/spelling/tiles/mint.png",
+      "lilac": "assets/spelling/tiles/lilac.png",
+      "peach": "assets/spelling/tiles/peach.png",
+      "locked": "assets/spelling/tiles/locked.png",
+      "selected": "assets/spelling/tiles/selected.png",
+      "correct": "assets/spelling/tiles/correct.png",
+      "retry": "assets/spelling/tiles/retry.png"
+    }
+  },
+  "missionMap": {
+    "landscape": "assets/mission-map/Landscape.png",
+    "landmarks": {
+      "calendar-conveyor": "assets/mission-map/calendar-conveyor.png",
+      "weather-blackout": "assets/mission-map/weather-blackout.png",
+      "freeze-frame-charades": "assets/mission-map/freeze-frame-charades.png",
+      "three-door-dash": "assets/mission-map/three-door-dash.png",
+      "yesterday-tomorrow-switch": "assets/mission-map/yesterday-tomorrow-switch.png",
+      "stop-the-time-loop": "assets/mission-map/stop-the-time-loop.png"
+    }
+  },
+  "glowup": {
+    "intros": {
+      "calendar-conveyor": "assets/layout-glowup/calendar-conveyor-intro.png",
+      "weather-blackout": "assets/layout-glowup/weather-blackout-intro.png",
+      "freeze-frame-charades": "assets/layout-glowup/freeze-frame-charades-intro.png",
+      "three-door-dash": "assets/layout-glowup/three-door-dash-intro.png",
+      "yesterday-tomorrow-switch": "assets/layout-glowup/yesterday-tomorrow-switch-intro.png",
+      "stop-the-time-loop": "assets/layout-glowup/stop-the-time-loop-intro.png",
+      "week-review": "assets/layout-glowup/week-review-intro.png",
+      "vocabulary": "assets/layout-glowup/vocabulary-intro.png",
+      "weather": "assets/layout-glowup/weather-intro.png",
+      "actions": "assets/layout-glowup/actions-intro.png"
+    },
+    "active": {
+      "calendar-conveyor": "assets/layout-glowup/calendar-conveyor-active.png",
+      "weather-blackout": "assets/layout-glowup/weather-blackout-active.png",
+      "freeze-frame-charades": "assets/layout-glowup/freeze-frame-charades-active.png",
+      "three-door-dash": "assets/layout-glowup/three-door-dash-active.png",
+      "yesterday-tomorrow-switch": "assets/layout-glowup/yesterday-tomorrow-switch-active.png",
+      "stop-the-time-loop": "assets/layout-glowup/stop-the-time-loop-active.png",
+      "week-review": "assets/layout-glowup/week-review-active.png",
+      "vocabulary": "assets/layout-glowup/vocabulary-active.png",
+      "weather": "assets/layout-glowup/weather-active.png",
+      "actions": "assets/layout-glowup/actions-active.png"
+    },
+    "doors": {
+      "0": "assets/layout-glowup/door-0.png",
+      "1": "assets/layout-glowup/door-1.png",
+      "2": "assets/layout-glowup/door-2.png"
+    }
+  },
+  "titleScenes": {
+    "week-review": "assets/title-scenes/week-review.png",
+    "calendar-conveyor": "assets/title-scenes/calendar-conveyor.png",
+    "weather-blackout": "assets/title-scenes/weather-blackout.png",
+    "freeze-frame-charades": "assets/title-scenes/freeze-frame-charades.png",
+    "three-door-dash": "assets/title-scenes/three-door-dash.png",
+    "yesterday-tomorrow-switch": "assets/title-scenes/yesterday-tomorrow-switch.png",
+    "stop-the-time-loop": "assets/title-scenes/stop-the-time-loop.png",
+    "vocabulary": "assets/title-scenes/vocabulary.png",
+    "sentence-patterns": "assets/title-scenes/sentence-patterns.png",
+    "weather": "assets/title-scenes/weather.png",
+    "actions": "assets/title-scenes/actions.png",
+    "spelling": "assets/title-scenes/spelling.png",
+    "custom-practice": "assets/title-scenes/custom-practice.png"
+  },
+  "windowLogos": {
+    "calendar-conveyor": "assets/window-logos/calendar-conveyor.png",
+    "weather-blackout": "assets/window-logos/weather-blackout.png",
+    "freeze-frame-charades": "assets/window-logos/freeze-frame-charades.png",
+    "three-door-dash": "assets/window-logos/three-door-dash.png",
+    "yesterday-tomorrow-switch": "assets/window-logos/yesterday-tomorrow-switch.png",
+    "stop-the-time-loop": "assets/window-logos/stop-the-time-loop.png",
+    "week-review": "assets/window-logos/week-review.png",
+    "vocabulary": "assets/window-logos/vocabulary.png",
+    "sentence-patterns": "assets/window-logos/sentence-patterns.png",
+    "weather": "assets/window-logos/weather.png",
+    "actions": "assets/window-logos/actions.png",
+    "spelling": "assets/window-logos/spelling.png",
+    "custom-practice": "assets/window-logos/custom-practice.png"
+  }
+}
